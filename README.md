@@ -4,4 +4,4 @@ Design of an adjustable switching regulator driver for DV-S9 diving flashlight, 
 ![Teaser](https://luicer.github.io/assets/images/2024/Switching_Led/Teaser.jpg)
 
 Post where the design is esplained:
-[https://luicer.github.io/assets/images/2024/Switching_Led/Teaser.jpg](https://luicer.github.io/assets/images/2024/Switching_Led/Teaser.jpg)
+[https://luicer.github.io/led%20flashlight/Flashlight-Driver-Switching-Eng/](https://luicer.github.io/led%20flashlight/Flashlight-Driver-Switching-Eng/)
