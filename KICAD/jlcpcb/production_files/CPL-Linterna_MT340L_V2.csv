@@ -1,0 +1,26 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10u,CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,150.4375,-93.7,0.0,bottom
+C2,1u,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,157.85,-105.2,180.0,bottom
+C3,1n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,150.75,-95.65,0.0,top
+C4,nc,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,147.9,-97.175,-90.0,top
+C5,15p,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,146.125,-106.225,-90.0,top
+C6,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,150.375,-91.575,0.0,bottom
+C7,nc,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,155.325,-92.075,0.0,bottom
+C8,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.4,-103.125,180.0,top
+J1,BAT +,Lin_Pad+,150.0,-100.0,180.0,bottom
+J2,BAT-,Lin_Pad-,149.998749,-100.0,0.0,top
+L1,2.2u,CD43NP-100MC,158.075,-100.9,270.0,bottom
+Q1,MMBT3906,SOT-23,145.075,-107.375,180.0,bottom
+R1,82k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,148.2,-107.6,270.0,bottom
+R2,NC,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,143.0,-104.5,180.0,bottom
+R3,200K,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,150.75,-97.55,0.0,top
+R4,120k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,150.3,-107.6,270.0,bottom
+R5,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,152.8,-107.6,270.0,bottom
+R6,0.01,R_2512_6332Metric_Pad1.52x3.35mm_HandSolder,156.05,-100.975,-90.0,top
+R7,0,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,155.125,-95.725,180.0,top
+RV1,10K,TC33X-2-103E,149.025,-106.6328,180.0,top
+U1,SS49E,SS49E,141.65725,-99.508,270.0,bottom
+U2,MT3410L,TSOT-23-5,156.9,-96.2,0.0,bottom
+U3,SGM8551XN,SOT-23-5,151.725,-100.375,180.0,top
+U4,SGM8551XN,SOT-23-5,145.65,-102.0,0.0,top
+U5,HT7130,SOT-89-3,145.0,-92.7,0.0,bottom

@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SGM8551XN
+D The SGM8551XN is a single rail-to-rail input and output precision operational amplifier which has low input offset voltage, and bias current.
+$ENDCMP
+#
+#End Doc Library
